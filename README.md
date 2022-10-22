@@ -1,5 +1,7 @@
+<div>
 ### Hi Stranger 🖖
-
+</div>
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+</div>
 </br>
 
   <a href="https://instagram.com/bielgsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
