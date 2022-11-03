@@ -8,7 +8,7 @@ Um pouco sobre mim:
 
 
 <div style="display: inline_block"><br>
-⚡ Sei programar em: <br><br>
+⚡ Stacks: <br><br>
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/174/174881.png" target="_blank"></a> 
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/226/226269.png"></a> 
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></a> 
@@ -16,7 +16,7 @@ Um pouco sobre mim:
 </div>
 
 <div style="display: inline_block"><br>
-🤔 Aprendendo a programar em: <br><br>
+🤔 Learning em: <br><br>
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></a> 
 
 </div>
