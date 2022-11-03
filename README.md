@@ -16,7 +16,7 @@ Um pouco sobre mim:
 </div>
 
 <div style="display: inline_block"><br>
-🤔 Learning em: <br><br>
+🤔 Learning: <br><br>
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></a> 
 
 </div>
