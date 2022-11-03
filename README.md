@@ -1,6 +1,6 @@
 ### Hi Stranger 🖖
 
-Um pouco sobre mim para nos conhecermos melhor:
+Um pouco sobre mim:
 
 - 🧰 Engenheiro Mecânico
 - 🔭 Atualmente trabalhando em:  <a href="https://royalsites.com.br/" target="_blank"> Royal Desenvolvimento de Sites </a>
