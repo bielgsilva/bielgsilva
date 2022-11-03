@@ -4,7 +4,8 @@ Um pouco sobre mim:
 
 - 🧰 Engenheiro Mecânico
 - 🔭 Atualmente trabalhando em:  <a href="https://royalsites.com.br/" target="_blank"> Royal Desenvolvimento de Sites </a>
-- <a>  <img align="center" height="40" width="40"  src="https://user-images.githubusercontent.com/106818201/199819822-319075c1-2b2d-4dd4-9165-b337bc99b6b3.gif)"></a> 
+- <a>  <img align="center" height="40" width="40"  src="![EatingFoodGIF (2)](https://user-images.githubusercontent.com/106818201/199820454-8805a149-e72f-47e0-9ad5-936a7dfe48a1.gif)"></a> 
+
 
 
 <div style="display: inline_block"><br>
