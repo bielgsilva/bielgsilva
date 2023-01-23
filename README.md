@@ -3,7 +3,6 @@
 Um pouco sobre mim:
 
 - 🧰 Engenheiro Mecânico
-- 🔭 Atualmente trabalhando em:  <a href="https://royalsites.com.br/" target="_blank"> Royal Desenvolvimento de Sites </a>
 - ☕ Mais um viciado em café :)
 
 
