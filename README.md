@@ -1,4 +1,4 @@
-### Hi Stranger 🖖
+### Olá! 😊
 
 Um pouco sobre mim:
 
