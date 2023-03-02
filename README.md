@@ -2,8 +2,10 @@
 
 Um pouco sobre mim:
 
+- ☕ Mais um apaixonado por café
+- 👩🏻‍💻 Desenvolvedor FullStack em formação  
 - 🧰 Engenheiro Mecânico
-- ☕ Mais um viciado em café :)
+ 
 
 
 <div style="display: inline_block"><br>
@@ -11,12 +13,13 @@ Um pouco sobre mim:
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/174/174881.png" target="_blank"></a> 
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/226/226269.png"></a> 
 <a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></a> 
+<a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></a> 
 
 </div>
 
 <div style="display: inline_block"><br>
 🤔 Learning: <br><br>
-<a>  <img align="center" height="40" width="40"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></a> 
+
 
 </div>
 
